@@ -1,0 +1,14 @@
+{
+    "status": 200,
+    "pagination": {
+      "total": 2871,
+      "pages": 288,
+     "page": 1,
+      "limit": 10,
+      "links": {
+        "previous": null,
+        "current": "https://gorest.co.in/public/v1/users?page=1",
+        "next": "https://gorest.co.in/public/v1/users?page=2"
+      }
+    }
+  }

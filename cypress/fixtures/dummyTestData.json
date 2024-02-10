@@ -1,0 +1,8 @@
+{
+    "statusCode": 200,
+    "numOfEmployees": 24,
+    "namesOfExpectedEmployees": ["Tiger Nixon", "Garrett Winters"],
+    "maxAge": 66,
+    "nameOfTheYoungestEmployee": "Tatyana Fitzpatrick",
+    "expectedTotalSalary": 6644770
+}
